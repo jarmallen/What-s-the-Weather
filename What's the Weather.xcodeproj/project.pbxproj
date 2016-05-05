@@ -12,6 +12,7 @@
 		FAB599221C0513C50063225C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAB599201C0513C50063225C /* Main.storyboard */; };
 		FAB599241C0513C50063225C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAB599231C0513C50063225C /* Assets.xcassets */; };
 		FAB599271C0513C50063225C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAB599251C0513C50063225C /* LaunchScreen.storyboard */; };
+		FAB5992F1C051DE80063225C /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = FAB5992E1C051DE80063225C /* background.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FAB599231C0513C50063225C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAB599261C0513C50063225C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FAB599281C0513C50063225C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAB5992E1C051DE80063225C /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				FAB5991C1C0513C50063225C /* AppDelegate.swift */,
 				FAB5991E1C0513C50063225C /* ViewController.swift */,
 				FAB599201C0513C50063225C /* Main.storyboard */,
+				FAB5992E1C051DE80063225C /* background.png */,
 				FAB599231C0513C50063225C /* Assets.xcassets */,
 				FAB599251C0513C50063225C /* LaunchScreen.storyboard */,
 				FAB599281C0513C50063225C /* Info.plist */,
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FAB599271C0513C50063225C /* LaunchScreen.storyboard in Resources */,
+				FAB5992F1C051DE80063225C /* background.png in Resources */,
 				FAB599241C0513C50063225C /* Assets.xcassets in Resources */,
 				FAB599221C0513C50063225C /* Main.storyboard in Resources */,
 			);
